@@ -57,6 +57,12 @@ You can add under the Problem 3 heading.
 4. Changed the last line so that there would be SelectedCat from Cats and from Treats. 
     `print("The favourite treat of", Cats[SelectedCat], "is", Treats[SelectedCat])`
 
+## Problem 2
+ There were no actual problems, I completed the exercise with same technique as in problem 1, without the `index()` method. It worked as well and I found it easy.
+ 
+## Problem 3
+The lesson itself was fun and educational, step by step intsructions have been helpful for I've never used Python before. There's nothing I disliked. What comes to the Exercise 2, I didn't quite understand the index method. 
+
 You can see an example of how to display an image with a caption below.
 
 ![Text shown if image does not load](Images/green-tree-python.jpg)<br/>
