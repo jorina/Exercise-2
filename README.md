@@ -63,8 +63,9 @@ You can add under the Problem 3 heading.
 ## Problem 3
 The lesson itself was fun and educational, step by step intsructions have been helpful for I've never used Python before. There's nothing I disliked. What comes to the Exercise 2, I didn't quite understand the index method. 
 
-Here's a picture of my awesome cat with lazer eyes on a curtain rod. 
-( Exercise-2/picture_of_cat.jpg )<br/>
+*Here's a picture of my awesome cat with lazer eyes on a curtain rod.* 
+
+![Text shown if image does not load](https://github.com/hannrant/Exercise-2/blob/master/picture_of_cat.jpg)<br/>
 
 
 ![Text shown if image does not load](Images/green-tree-python.jpg)<br/>
