@@ -51,9 +51,12 @@ You can add under the Problem 3 heading.
 
 # Answers
 ## Problem 1
-This is some text.
-You can use *italics* or **bold** text easily.
-You may want to read a bit more about [formatting text in Github-flavored Markdown](https://help.github.com/articles/basic-writing-and-formatting-syntax/).
+1. First I changed the number of the `SelectedCat` into `6` (because in IPython numbers start from 0)
+2. Added one treat to the list since there was only 6 of them (and 7 cats).
+3. Removed the third line `CatIndex = Cats.index(SelectedCat)` 
+4. Changed the last line so that there would be SelectedCat from Cats and from Treats. 
+    `print("The favourite treat of", Cats[SelectedCat], "is", Treats[SelectedCat])`
+
 You can see an example of how to display an image with a caption below.
 
 ![Text shown if image does not load](Images/green-tree-python.jpg)<br/>
