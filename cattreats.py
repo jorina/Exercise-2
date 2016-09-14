@@ -21,7 +21,7 @@ Cats = ['Garfield', 'Nermal', 'Tom Cat', 'Puss in Boots', 'Hobbes', 'Stimpy', 'S
 Treats = ['Lasagne', 'Praise', 'Mice', 'Power', 'Calvin', 'Fresh kitty litter', 'Fish']
 
 # Find location of selected cat
-CatIndex = Cats.index(SelectedCat)
+#CatIndex = Cats.index(SelectedCat)
 
 # Print cat name and favorit treat on screen
-print("The favorite treat of", SelectedCat, "is", Treats[SelectedCat])
+print("The favorite treat of", Cats[SelectedCat], "is", Treats[SelectedCat])
